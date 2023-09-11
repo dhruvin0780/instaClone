@@ -1,0 +1,15 @@
+{
+	"MISSING_TOKEN": "Sorry, the token are missing...",
+	"INVALID_PARAMETERS": "Sorry, the request could not be processed as because of invalid parameters.",
+	"USER_REGISTRATION_FAILED": "Sorry, Something Went wrong to create new user.Please try again.",
+	"USER_REGISTRATION_SUCCESS": "User registration successfully.",
+	"USER_ALREADY_EXISTS": "Sorry, the specified user is already registerd. Please try with different.",
+
+	"USER_LOGIN_FAILED": "Sorry, Something Went wrong to login user.Please try again.",
+	"USER_NOT_EXIST": "Sorry, User not found.",
+	"USER_ALREADY_LOGIN": "Sorry, User are already login.",
+	"USER_LOGIN_SUCCESSFULLY": "User login successfully.",
+
+	"POST_CREATE_SUCCESSFULLY": "Post upload successfully",
+	"POST_FATCH": "Post fatch successfully."
+}
